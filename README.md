@@ -1,2 +1,3 @@
 # kkesedd
 jamet gondes
+"komputasi"
